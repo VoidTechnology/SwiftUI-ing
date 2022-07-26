@@ -8,3 +8,6 @@
 
 - [WeChat-SwiftUI](https://github.com/Lebron1992/WeChat-SwiftUI)
   - 用 SwiftUI 仿写的微信。
+  
+- [Hide-TabBar-In-SwiftUI](https://github.com/TreatTrick/Hide-TabBar-In-SwiftUI)
+  - This tutorial provides a solution to hide TabBars when using TabView in SwiftUI
