@@ -14,6 +14,9 @@
 - [Hide-TabBar-In-SwiftUI](https://github.com/TreatTrick/Hide-TabBar-In-SwiftUI)
   - This tutorial provides a solution to hide TabBars when using TabView in SwiftUI
   
+- [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)
+  - Extensions and additions to the standard SwiftUI library.
+  
   
 ## Blog
 
