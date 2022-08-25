@@ -2,6 +2,9 @@
 
 ## Repo
 
+- [SwiftUI](https://github.com/Jinxiansen/SwiftUI/blob/master/README_CN.md)
+  - `SwiftUI` Framework Learning and Usage Guide. 🚀
+
 - [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
   - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
