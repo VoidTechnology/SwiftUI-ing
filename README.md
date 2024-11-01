@@ -22,6 +22,11 @@
   
 - [iAppStore-SwiftUI](https://github.com/37iOS/iAppStore-SwiftUI)
   - iAppStore 是一款使用 SwiftUI 打造的苹果商店工具类 App。
+
+- [SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp)
+  - 戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + SwiftData + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用
+ 
+
 ## Blog
 
 - [TCA - SwiftUI 的救星？](https://onevcat.com/2021/12/tca-1/)
